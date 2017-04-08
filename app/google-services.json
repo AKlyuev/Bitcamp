@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "786722998224",
+    "firebase_url": "https://bitcamp-bd388.firebaseio.com",
+    "project_id": "bitcamp-bd388",
+    "storage_bucket": "bitcamp-bd388.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786722998224:android:1ee6f199e7347748",
+        "android_client_info": {
+          "package_name": "com.example.matt33n.bitcamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786722998224-hvmebr1uf4jqag50c5ehjjls8qvdkofr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.matt33n.bitcamp",
+            "certificate_hash": "451e25b317da64d35437df7d0e0bde20106ff847"
+          }
+        },
+        {
+          "client_id": "786722998224-f4o6v3jkl1v0evfd9m5bdde6lkrlrrfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlAF8kJ3ZSX8bq21oRmNWxQG-_NHb-p7k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786722998224-f4o6v3jkl1v0evfd9m5bdde6lkrlrrfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
